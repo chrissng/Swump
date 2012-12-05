@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/chrissng/Swump/bin/img/logo.png"/>
+	<img src="https://github.com/chrissng/Swump/exe/img/logo.png"/>
 </p>
 
 Swump! refers to Sudoku With Unique Multi-Play. It aims to reinvent how Sudoku is played traditionally by delivering a Sudoku application with a unique twist: one that allows multiple players to play on the same board as they engage in a battle of strategy and luck!
